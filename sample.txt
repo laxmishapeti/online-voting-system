@@ -1,6 +1,10 @@
+
 #inclulde<stdio.>
 int main ()
 {
 printf("hello");
 printf("good morning");
 printf("taday is monday");
+printf("have a nice day");
+}
+
