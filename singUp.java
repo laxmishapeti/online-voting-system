@@ -2,7 +2,6 @@ package votingSystem;
 import java.util.Scanner;
 
 public class signIn {
-	
 	public int signInPassword;
 	public String signInName;
 	Scanner sc=new Scanner(System.in);
